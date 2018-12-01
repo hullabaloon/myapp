@@ -1,0 +1,22 @@
+{
+  "random_id" : {
+    "ProductComment" : {
+      "random_id" : {
+        "comment" : "Nice product",
+        "email" : "xy...@yahoo.com",
+        "originLink" : "https://..."
+      }
+    },
+    "bannerUrl" : "https://..",
+    "coin" : 45000,
+    "coverUrl" : "https://url",
+    "createdAt" : 2132134567,
+    "isActive" : true,
+    "originLink" : "https://...",
+    "photoUrls" : [ null, "https://...", "https://123", "https://333" ],
+    "title" : "Gamer Mouse",
+    "type" : 2,
+    "voteDown" : 4,
+    "voteUp" : 15
+  }
+}
