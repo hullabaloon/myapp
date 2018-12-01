@@ -1,55 +1,22 @@
 [
    {
-    "ProductComment": [
-      {
-        "comment": "Product 1: Comment 1",
-        "email": "qw...@yahoo.com",
-        "generatedProductID": "1111"
-      },
-      {
-        "comment": "Product 1: Comment 2",
-        "email": "tr...@yahoo.com",
-        "generatedProductID": "1111"
-      }
-    ],
     "generatedProductID": "1111",
     "bannerUrl": "https://cdn.myfonts.net/s/aw/1440x720/426/0/218573.png",
     "coin": 45000,
     "timesOfChoice": 27,
-    "coverUrl": "https://ae01.alicdn.com/kf/HTB1GtoHx8mWBuNkSndVq6AsApXaV/Gaming-Mouse-Mause-DPI-Adjustable-Computer-Optical-LED-Game-Mice-Wired-USB-Games-Cable-Mouse-LOL.jpg_640x640.jpg",
+    "coverUrl": "https://ae01.alicdn.com/kf/HTB1_MHWvKOSBuNjy0Fdq6zDnVXap/Bluetooth-Gamepad-Android-Game-Controller-Smart-Wireless-Joystick-Gaming-Remote-Control-for-iPhone-IOS-Projector-Phone.jpg_640x640.jpg",
     "createdAt": 2132134567,
     "isActive": true,
     "originLink": "https://1111.com",
-    "photoUrls": [null, "https://...", "https://123", "https://333"],
-    "title": "Gamer Mouse",
+    "photoUrls": ["https://...", "https://123", "https://333"],
+    "comments": ["awesome product. recommend everyone", "yeah. I lik this one.", "Great product", "Real deal.. Awesome stuff", "Terrific product. recommend everyone"],
+    "title": "An amazing Product with batteries included",
     "description": "Awesome Gamer Mouse for everyone",
     "type": 2,
     "voteDown": 56,
     "voteUp": 748
   },
   {
-    "ProductComment": [
-      {
-        "comment": "Product 2: Comment 1",
-        "email": "rty...@yahoo.com",
-        "generatedProductID": "2222"
-      },
-      {
-        "comment": "Product 2: Comment 2",
-        "email": "uy...@yahoo.com",
-        "generatedProductID": "2222"
-      },
-      {
-        "comment": "Product 2: Comment 3",
-        "email": "vdvd...@yahoo.com",
-        "generatedProductID": "2222"
-      },
-      {
-        "comment": "Product 2: Comment 4",
-        "email": "xccx...@yahoo.com",
-        "generatedProductID": "2222"
-      }
-    ],
     "generatedProductID": "2222",
     "bannerUrl": "https://cdn.dextra.art/pr/0d2ea8706622276815b793a5/720/1513716696701-1800-900.jpg",
     "coin": 85000,
@@ -58,46 +25,60 @@
     "createdAt": 2132134567,
     "isActive": true,
     "originLink": "https://2221.com",
-    "photoUrls": [null, "https://...", "https://123", "https://333"],
-    "title": "Gamer Mouse",
+    "photoUrls": ["https://...", "https://123", "https://333"],
+    "comments": ["cool product. nicest thing", "Amazing. High quality.", "Real deal.. Awesome stuff", "Terrific product. recommend everyone", "Cool! I like this one."],
+    "title": "Gamer Mouse 4500 DPI & Buttons",
     "description": "Laser Gamer Mouse 45000 DPI",
     "type": 2,
     "voteDown": 45,
     "voteUp": 544
   },
   {
-    "ProductComment": [
-      {
-        "comment": "Product 2: Comment 1",
-        "email": "rty...@yahoo.com",
-        "generatedProductID": "2222"
-      },
-      {
-        "comment": "Product 2: Comment 2",
-        "email": "uy...@yahoo.com",
-        "generatedProductID": "2222"
-      },
-      {
-        "comment": "Product 2: Comment 3",
-        "email": "vdvd...@yahoo.com",
-        "generatedProductID": "2222"
-      },
-      {
-        "comment": "Product 2: Comment 4",
-        "email": "xccx...@yahoo.com",
-        "generatedProductID": "2222"
-      }
-    ],
     "generatedProductID": "3333",
     "bannerUrl": "https://i.pinimg.com/originals/96/66/85/96668560303e295fc84f4e68479eec72.png",
+    "coin": 85000,
+    "timesOfChoice": 45,
+    "coverUrl": "https://ae01.alicdn.com/kf/HTB1_MHWvKOSBuNjy0Fdq6zDnVXap/Bluetooth-Gamepad-Android-Game-Controller-Smart-Wireless-Joystick-Gaming-Remote-Control-for-iPhone-IOS-Projector-Phone.jpg_640x640.jpg",
+    "createdAt": 2132134567,
+    "isActive": true,
+    "originLink": "https://2221.com",
+    "photoUrls": ["https://...", "https://123", "https://333"],
+    "comments": ["Terrific product. recommend everyone", "Cool! I like this one.", "Awesome gaming mouse. ", "cool product. nicest thing", "Amazing. High quality."],
+    "title": "Gamer Mouse With Cable High Presicion",
+    "description": "Laser Gamer Mouse 45000 DPI",
+    "type": 2,
+    "voteDown": 45,
+    "voteUp": 544
+  },
+  {
+    "generatedProductID": "1111",
+    "bannerUrl": "https://cdn.myfonts.net/s/aw/1440x720/426/0/218573.png",
+    "coin": 45000,
+    "timesOfChoice": 27,
+    "coverUrl": "https://ae01.alicdn.com/kf/HTB1GtoHx8mWBuNkSndVq6AsApXaV/Gaming-Mouse-Mause-DPI-Adjustable-Computer-Optical-LED-Game-Mice-Wired-USB-Games-Cable-Mouse-LOL.jpg_640x640.jpg",
+    "createdAt": 2132134567,
+    "isActive": true,
+    "originLink": "https://1111.com",
+    "photoUrls": ["https://...", "https://123", "https://333"],
+    "comments": ["awesome product. recommend everyone", "yeah. I lik this one.", "Great product", "Real deal.. Awesome stuff", "Terrific product. recommend everyone"],
+    "title": "An amazing Product with batteries included",
+    "description": "Awesome Gamer Mouse for everyone",
+    "type": 2,
+    "voteDown": 56,
+    "voteUp": 748
+  },
+  {
+    "generatedProductID": "2222",
+    "bannerUrl": "https://cdn.dextra.art/pr/0d2ea8706622276815b793a5/720/1513716696701-1800-900.jpg",
     "coin": 85000,
     "timesOfChoice": 45,
     "coverUrl": "https://ae01.alicdn.com/kf/HTB1GtoHx8mWBuNkSndVq6AsApXaV/Gaming-Mouse-Mause-DPI-Adjustable-Computer-Optical-LED-Game-Mice-Wired-USB-Games-Cable-Mouse-LOL.jpg_640x640.jpg",
     "createdAt": 2132134567,
     "isActive": true,
     "originLink": "https://2221.com",
-    "photoUrls": [null, "https://...", "https://123", "https://333"],
-    "title": "Gamer Mouse",
+    "photoUrls": ["https://...", "https://123", "https://333"],
+    "comments": ["cool product. nicest thing", "Amazing. High quality.", "Real deal.. Awesome stuff", "Terrific product. recommend everyone", "Cool! I like this one."],
+    "title": "Gamer Mouse 4500 DPI & Buttons",
     "description": "Laser Gamer Mouse 45000 DPI",
     "type": 2,
     "voteDown": 45,
