@@ -1,12 +1,17 @@
 [
    {
-    "ProductComment": {
-      "001": {
-        "comment": "Nice product",
+    "ProductComment": [
+      {
+        "comment": "Product 1: Comment 1",
+        "email": "qw...@yahoo.com",
+        "generatedProductID": "1111"
+      },
+      {
+        "comment": "Product 1: Comment 2",
         "email": "tr...@yahoo.com",
         "generatedProductID": "1111"
       }
-    },
+    ],
     "generatedProductID": "1111",
     "bannerUrl": "https://cdn.myfonts.net/s/aw/1440x720/426/0/218573.png",
     "coin": 45000,
@@ -23,23 +28,28 @@
     "voteUp": 748
   },
   {
-    "ProductComment": {
-      "001": {
-        "comment": "Nice product",
-        "email": "bm...@yahoo.com",
+    "ProductComment": [
+      {
+        "comment": "Product 2: Comment 1",
+        "email": "rty...@yahoo.com",
         "generatedProductID": "2222"
       },
-      "002": {
-        "comment": "Super nicey product",
-        "email": "xy...@yahoo.com",
+      {
+        "comment": "Product 2: Comment 2",
+        "email": "uy...@yahoo.com",
         "generatedProductID": "2222"
       },
-      "003": {
-        "comment": "I like this",
-        "email": "rgg...@yahoo.com",
+      {
+        "comment": "Product 2: Comment 3",
+        "email": "vdvd...@yahoo.com",
+        "generatedProductID": "2222"
+      },
+      {
+        "comment": "Product 2: Comment 4",
+        "email": "xccx...@yahoo.com",
         "generatedProductID": "2222"
       }
-    },
+    ],
     "generatedProductID": "2222",
     "bannerUrl": "https://cdn.dextra.art/pr/0d2ea8706622276815b793a5/720/1513716696701-1800-900.jpg",
     "coin": 85000,
