@@ -66,23 +66,28 @@
     "voteUp": 544
   },
   {
-    "ProductComment": {
-      "001": {
-        "comment": "Nice product",
-        "email": "bm...@yahoo.com",
-        "generatedProductID": "3333"
+    "ProductComment": [
+      {
+        "comment": "Product 2: Comment 1",
+        "email": "rty...@yahoo.com",
+        "generatedProductID": "2222"
       },
-      "002": {
-        "comment": "Super nicey product",
-        "email": "xy...@yahoo.com",
-        "generatedProductID": "3333"
+      {
+        "comment": "Product 2: Comment 2",
+        "email": "uy...@yahoo.com",
+        "generatedProductID": "2222"
       },
-      "003": {
-        "comment": "I like this",
-        "email": "rgg...@yahoo.com",
-        "generatedProductID": "3333"
+      {
+        "comment": "Product 2: Comment 3",
+        "email": "vdvd...@yahoo.com",
+        "generatedProductID": "2222"
+      },
+      {
+        "comment": "Product 2: Comment 4",
+        "email": "xccx...@yahoo.com",
+        "generatedProductID": "2222"
       }
-    },
+    ],
     "generatedProductID": "3333",
     "bannerUrl": "https://i.pinimg.com/originals/96/66/85/96668560303e295fc84f4e68479eec72.png",
     "coin": 85000,
