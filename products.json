@@ -1,5 +1,5 @@
-{
-  "a1": {
+[
+   {
     "ProductComment": {
       "001": {
         "comment": "Nice product",
@@ -22,7 +22,7 @@
     "voteDown": 56,
     "voteUp": 748
   },
-  "a2": {
+  {
     "ProductComment": {
       "001": {
         "comment": "Nice product",
@@ -55,7 +55,7 @@
     "voteDown": 45,
     "voteUp": 544
   },
-  "a3": {
+  {
     "ProductComment": {
       "001": {
         "comment": "Nice product",
@@ -88,4 +88,4 @@
     "voteDown": 45,
     "voteUp": 544
   }
-}
+]
