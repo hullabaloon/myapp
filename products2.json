@@ -1,0 +1,106 @@
+[
+   { "a1":
+    {
+    "productId": "1111",
+    "category": "electronic",
+    "bannerUrl": "https://cdn.myfonts.net/s/aw/1440x720/426/0/218573.png",
+    "coin": 45000,
+    "timesOfChoice": 27,
+    "coverUrl": "https://ae01.alicdn.com/kf/HTB1_MHWvKOSBuNjy0Fdq6zDnVXap/Bluetooth-Gamepad-Android-Game-Controller-Smart-Wireless-Joystick-Gaming-Remote-Control-for-iPhone-IOS-Projector-Phone.jpg_640x640.jpg",
+    "createdAt": 2132134567,
+    "isActive": 1,
+    "originLink": "https://1111.com",
+    "photoUrls": ["https://ae01.alicdn.com/kf/HTB1YBfCX0fvK1RjSspfq6zzXFXa4/RAXFLY-10W-Qi-Wireless-Charger-For-iPhone-X-8-Plus-Fast-Charging-Holder-For-Samsung-S8.jpg_640x640.jpg", "https://ae01.alicdn.com/kf/HTB1rD70Kk9WBuNjSspeq6yz5VXay/RAXFLY-10W-Qi-Wireless-Charger-For-iPhone-X-8-Plus-Fast-Charging-Holder-For-Samsung-S8.jpg", "https://ae01.alicdn.com/kf/HTB1g6F4X5zxK1Rjy1zkq6yHrVXaa/RAXFLY-10W-Qi-Wireless-Charger-For-iPhone-X-8-Plus-Fast-Charging-Holder-For-Samsung-S8.jpg"],
+    "comments": ["awesome product. recommend everyone", "yeah. I lik this one.", "Great product", "Real deal.. Awesome stuff", "Terrific product. recommend everyone"],
+    "title": "An amazing Product with batteries included",
+    "description": "Awesome Gamer Mouse for everyone",
+    "type": 1,
+    "voteDown": 56,
+    "voteUp": 748
+    }
+    
+  },
+  { 
+    "a2":{
+    "productId": "2222",
+    "category": "electronic",
+    "bannerUrl": "https://cdn.dextra.art/pr/0d2ea8706622276815b793a5/720/1513716696701-1800-900.jpg",
+    "coin": 11000,
+    "timesOfChoice": 45,
+    "coverUrl": "https://ae01.alicdn.com/kf/HTB1GtoHx8mWBuNkSndVq6AsApXaV/Gaming-Mouse-Mause-DPI-Adjustable-Computer-Optical-LED-Game-Mice-Wired-USB-Games-Cable-Mouse-LOL.jpg_640x640.jpg",
+    "createdAt": 1,
+    "isActive": 1,
+    "originLink": "https://2221.com",
+    "photoUrls": ["https://ae01.alicdn.com/kf/HTB1YBfCX0fvK1RjSspfq6zzXFXa4/RAXFLY-10W-Qi-Wireless-Charger-For-iPhone-X-8-Plus-Fast-Charging-Holder-For-Samsung-S8.jpg_640x640.jpg", "https://ae01.alicdn.com/kf/HTB1rD70Kk9WBuNjSspeq6yz5VXay/RAXFLY-10W-Qi-Wireless-Charger-For-iPhone-X-8-Plus-Fast-Charging-Holder-For-Samsung-S8.jpg", "https://ae01.alicdn.com/kf/HTB1g6F4X5zxK1Rjy1zkq6yHrVXaa/RAXFLY-10W-Qi-Wireless-Charger-For-iPhone-X-8-Plus-Fast-Charging-Holder-For-Samsung-S8.jpg"],
+    "comments": ["cool product. nicest thing", "Amazing. High quality.", "Real deal.. Awesome stuff", "Terrific product. recommend everyone", "Cool! I like this one."],
+    "title": "4 Gamer Mouse 4500 DPI & Buttons",
+    "description": "1 Laser Gamer Mouse 45000 DPI",
+    "type": 1,
+    "voteDown": 45,
+    "voteUp": 544
+  }
+},
+  {
+    "a3":{
+
+    "productId": "3333",
+    "category": "electronic",
+    "bannerUrl": "https://i.pinimg.com/originals/96/66/85/96668560303e295fc84f4e68479eec72.png",
+    "coin": 33000,
+    "timesOfChoice": 45,
+    "coverUrl": "https://ae01.alicdn.com/kf/HTB1_MHWvKOSBuNjy0Fdq6zDnVXap/Bluetooth-Gamepad-Android-Game-Controller-Smart-Wireless-Joystick-Gaming-Remote-Control-for-iPhone-IOS-Projector-Phone.jpg_640x640.jpg",
+    "createdAt": 3,
+    "isActive": 1,
+    "originLink": "https://2221.com",
+    "photoUrls": ["https://ae01.alicdn.com/kf/HTB1YBfCX0fvK1RjSspfq6zzXFXa4/RAXFLY-10W-Qi-Wireless-Charger-For-iPhone-X-8-Plus-Fast-Charging-Holder-For-Samsung-S8.jpg_640x640.jpg", "https://ae01.alicdn.com/kf/HTB1rD70Kk9WBuNjSspeq6yz5VXay/RAXFLY-10W-Qi-Wireless-Charger-For-iPhone-X-8-Plus-Fast-Charging-Holder-For-Samsung-S8.jpg", "https://ae01.alicdn.com/kf/HTB1g6F4X5zxK1Rjy1zkq6yHrVXaa/RAXFLY-10W-Qi-Wireless-Charger-For-iPhone-X-8-Plus-Fast-Charging-Holder-For-Samsung-S8.jpg"],
+    "comments": ["Terrific product. recommend everyone", "Cool! I like this one.", "Awesome gaming mouse. ", "cool product. nicest thing", "Amazing. High quality."],
+    "title": "Sıra 3 Gamer Mouse With Cable High Presicion",
+    "description": "Laser Gamer Mouse 45000 DPI",
+    "type": 1,
+    "voteDown": 45,
+    "voteUp": 544
+  }
+    }
+    ,
+  { "a4":{
+    "productId": "4444",
+    "bannerUrl": "https://cdn.myfonts.net/s/aw/1440x720/426/0/218573.png",
+    "coin": 45000,
+    "timesOfChoice": 27,
+    "coverUrl": "https://ae01.alicdn.com/kf/HTB1GtoHx8mWBuNkSndVq6AsApXaV/Gaming-Mouse-Mause-DPI-Adjustable-Computer-Optical-LED-Game-Mice-Wired-USB-Games-Cable-Mouse-LOL.jpg_640x640.jpg",
+    "createdAt": 2132134567,
+    "isActive": 1,
+    "originLink": "https://1111.com",
+    "photoUrls": ["https://ae01.alicdn.com/kf/HTB1YBfCX0fvK1RjSspfq6zzXFXa4/RAXFLY-10W-Qi-Wireless-Charger-For-iPhone-X-8-Plus-Fast-Charging-Holder-For-Samsung-S8.jpg_640x640.jpg", "https://ae01.alicdn.com/kf/HTB1rD70Kk9WBuNjSspeq6yz5VXay/RAXFLY-10W-Qi-Wireless-Charger-For-iPhone-X-8-Plus-Fast-Charging-Holder-For-Samsung-S8.jpg", "https://ae01.alicdn.com/kf/HTB1g6F4X5zxK1Rjy1zkq6yHrVXaa/RAXFLY-10W-Qi-Wireless-Charger-For-iPhone-X-8-Plus-Fast-Charging-Holder-For-Samsung-S8.jpg"],
+    "comments": ["awesome product. recommend everyone", "yeah. I lik this one.", "Great product", "Real deal.. Awesome stuff", "Terrific product. recommend everyone"],
+    "title": "An amazing Product with batteries included",
+    "description": "Awesome Gamer Mouse for everyone",
+    "type": 0,
+    "voteDown": 56,
+    "voteUp": 748
+  }
+    
+  },
+  { 
+    "a5":{
+    "productId": "5555",
+    "category": "electronic",
+    "bannerUrl": "https://cdn.dextra.art/pr/0d2ea8706622276815b793a5/720/1513716696701-1800-900.jpg",
+    "coin": 85000,
+    "timesOfChoice": 45,
+    "coverUrl": "https://ae01.alicdn.com/kf/HTB1GtoHx8mWBuNkSndVq6AsApXaV/Gaming-Mouse-Mause-DPI-Adjustable-Computer-Optical-LED-Game-Mice-Wired-USB-Games-Cable-Mouse-LOL.jpg_640x640.jpg",
+    "createdAt": 2132134567,
+    "isActive": 1,
+    "originLink": "https://2221.com",
+    "photoUrls": ["https://ae01.alicdn.com/kf/HTB1YBfCX0fvK1RjSspfq6zzXFXa4/RAXFLY-10W-Qi-Wireless-Charger-For-iPhone-X-8-Plus-Fast-Charging-Holder-For-Samsung-S8.jpg_640x640.jpg", "https://ae01.alicdn.com/kf/HTB1rD70Kk9WBuNjSspeq6yz5VXay/RAXFLY-10W-Qi-Wireless-Charger-For-iPhone-X-8-Plus-Fast-Charging-Holder-For-Samsung-S8.jpg", "https://ae01.alicdn.com/kf/HTB1g6F4X5zxK1Rjy1zkq6yHrVXaa/RAXFLY-10W-Qi-Wireless-Charger-For-iPhone-X-8-Plus-Fast-Charging-Holder-For-Samsung-S8.jpg"],
+    "comments": ["cool product. nicest thing", "Amazing. High quality.", "Real deal.. Awesome stuff", "Terrific product. recommend everyone", "Cool! I like this one."],
+    "title": "Gamer Mouse 4500 DPI & Buttons",
+    "description": "Laser Gamer Mouse 45000 DPI",
+    "type": 0,
+    "voteDown": 45,
+    "voteUp": 544
+  }
+
+  }
+    
+]
