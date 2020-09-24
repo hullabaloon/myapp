@@ -2050,5 +2050,52 @@
         "contributesTo": null,
         "relative_1d": 0.95,
         "timestamp": 1600362000
+    },
+    {
+        "category": "Payments",
+        "chain": "Ethereum",
+        "id": 1000,
+        "name": "test2",
+        "value": {
+            "tvl": {
+                "USD": {
+                    "value": 123456,
+                    "relative_1d": 0.95
+                },
+                "ETH": {
+                    "value": 33.99492026917336,
+                    "relative_1d": -2.63
+                },
+                "BTC": {
+                    "value": 1.1946245117479537,
+                    "relative_1d": 2.49
+                }
+            },
+            "total": {
+                "USD": {
+                    "value": 12983,
+                    "relative_1d": 0.95
+                },
+                "ETH": {
+                    "value": null,
+                    "relative_1d": null
+                },
+                "BTC": {
+                    "value": null,
+                    "relative_1d": null
+                }
+            },
+            "balance": {
+                "ERC20": {
+                    "DAI": {
+                        "value": 12768.9525837232,
+                        "relative_1d": 0
+                    }
+                }
+            }
+        },
+        "contributesTo": null,
+        "relative_1d": 0.95,
+        "timestamp": 1600362000
     }
 ]
